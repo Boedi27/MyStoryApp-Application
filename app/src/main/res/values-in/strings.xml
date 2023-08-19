@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyStoryApp</string>
+    <string name="invalid_email">"Format email tidak sesuai!"</string>
+    <string name="invalid_password">"Password harus 8 karakter atau lebih! "</string>
+    <string name="hint_name">Masukkan nama Anda</string>
+    <string name="hint_email">Masukkan email Anda</string>
+    <string name="hint_password">Masukkan password Anda</string>
+    <string name="have_account">Sudah punya akun ?</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="input_message">Masukkan %1$s Anda</string>
+    <string name="txt_to_reg">Belum punya akun ?</string>
+    <string name="login_error">Login error mohon coba lagi</string>
+    <string name="register_error">Register error mohon coba lagi</string>
+    <string name="logout">Logout</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="description">Deskripsi</string>
+    <string name="hint_desc">Masukkan deskripsi Anda</string>
+    <string name="upload">Unggah</string>
+    <string name="no_image">Tidak ada gambar yang dicantumkan</string>
+    <string name="label_add_activity">Tambah Cerita</string>
+    <string name="label_detail_activity">Detail Cerita</string>
+    <string name="register_success">Berhasil membuat akun</string>
+    <string name="select_image">Pilih gambar</string>
+    <string name="permissions_ungranted">Izin tidak diberikan</string>
+    <string name="language">Bahasa</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satelit</string>
+    <string name="terrain_type">Medan</string>
+    <string name="hybrid_type">Gabungan</string>
+    <string name="map_style_failed">Gagal parsing style</string>
+    <string name="map_style_not_found">\"Tidak bisa menemukan style. Eror:\"</string>
+    <string name="retry">Coba lagi</string>
+    <string name="unknown_error">Terjadi eror tak terduga</string>
+</resources>
