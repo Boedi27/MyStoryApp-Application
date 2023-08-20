@@ -24,7 +24,7 @@ MyStoryApp-Application is an application that I created to complete my submissio
 
 <p align="center">
   <img src = "http://drive.google.com/uc?export=view&id=1euatYJmblQcOnv31ZJT71_zVGdfIABWb"
-    alt = "Splash Screen"
+    alt = "Login Screen"
     style ="margin-rigth : 10px;"
     width = 150 />
   <img src = "http://drive.google.com/uc?export=view&id=1BFK2sfsX6ivWqeNmSWEz6nYxMq_Vm44i"
@@ -36,15 +36,15 @@ MyStoryApp-Application is an application that I created to complete my submissio
     style ="margin-rigth : 10px;"
     width = 150 />
   <img src = "http://drive.google.com/uc?export=view&id=1ZEAG7iJj-awxgpzGUFGOp8jQr6ncOOxb"
-    alt = "Favorite"
+    alt = "Maps"
     style ="margin-rigth : 10px;"
     width = 150 />
   <img src = "http://drive.google.com/uc?export=view&id=1vdCj2Y951Esfur5Mtv5TjGUdvcOauHzc"
-    alt = "Dark Mode"
+    alt = "Add"
     style ="margin-rigth : 10px;"
     width = 150 />
   <img src = "http://drive.google.com/uc?export=view&id=10ye3ccIrf8O1pO6yDXAylQ9vYiBlUiHL"
-    alt = "Dark Mode"
+    alt = "Language"
     style ="margin-rigth : 10px;"
     width = 150 />
 </p>
