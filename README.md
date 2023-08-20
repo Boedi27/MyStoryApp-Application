@@ -26,31 +26,35 @@ MyStoryApp-Application is an application that I created to complete my submissio
 * Intent
 
 <p align="center">
-  <img src = "http://drive.google.com/uc?export=view&id=15VPCf7QFLrAgFDSshirePpfPzOe44f0O"
+  <img src = "http://drive.google.com/uc?export=view&id=1euatYJmblQcOnv31ZJT71_zVGdfIABWb"
     alt = "Splash Screen"
     style ="margin-rigth : 10px;"
     width = 150 />
-  <img src = "http://drive.google.com/uc?export=view&id=1vUDSRAQCjoPLIF-aBRVYNofVagdtZII4"
+  <img src = "http://drive.google.com/uc?export=view&id=1BFK2sfsX6ivWqeNmSWEz6nYxMq_Vm44i"
     alt = "Home"
     style ="margin-rigth : 10px;"
     width = 150 />
-  <img src = "http://drive.google.com/uc?export=view&id=1npHbAuPmNyZDh0If3wuEnJz3zA24IRv6"
+  <img src = "http://drive.google.com/uc?export=view&id=1VMs8igXwbSIeAS1uq8bNLwPG5Q4J9PiK"
     alt = "Detail"
     style ="margin-rigth : 10px;"
     width = 150 />
-  <img src = "http://drive.google.com/uc?export=view&id=1agDWLkBKsn-lP-eX3NdmU_AU8EK2NOIm"
+  <img src = "http://drive.google.com/uc?export=view&id=1ZEAG7iJj-awxgpzGUFGOp8jQr6ncOOxb"
     alt = "Favorite"
     style ="margin-rigth : 10px;"
     width = 150 />
-  <img src = "http://drive.google.com/uc?export=view&id=1Q-CUiLrw28fVGQ13qxaxoFGxudv5oTF2"
+  <img src = "http://drive.google.com/uc?export=view&id=1vdCj2Y951Esfur5Mtv5TjGUdvcOauHzc"
+    alt = "Dark Mode"
+    style ="margin-rigth : 10px;"
+    width = 150 />
+  <img src = "http://drive.google.com/uc?export=view&id=10ye3ccIrf8O1pO6yDXAylQ9vYiBlUiHL"
     alt = "Dark Mode"
     style ="margin-rigth : 10px;"
     width = 150 />
 </p>
 
 ### Demo 
-<a href="https://www.youtube.com/watch?v=ZOZilgvC7Do">
-   <img src="https://img.youtube.com/vi/ZOZilgvC7Do/0.jpg" alt="Demo Video" width="300" height="200">
+<a href="https://youtu.be/3gMQUCgYD7I">
+   <img src="https://i9.ytimg.com/vi/3gMQUCgYD7I/mqdefault.jpg?sqp=CJi6h6cG-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIACgAqKAgwIABABGF4gXiheMA8=&rs=AOn4CLCMcGZ138yEtqVGt5KEjE6-syFN5A" alt="Demo Video" width="300" height="200">
 </a>
 
 ## Getting Started
