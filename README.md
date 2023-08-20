@@ -20,10 +20,8 @@ MyStoryApp-Application is an application that I created to complete my submissio
 * [View Model](https://developer.android.com/topic/libraries/architecture/viewmodel)
 
 ### Features
-* Splash Screen
-* Home, Detail, Favorite, And Theme Activity
-* Recyclerview
-* Intent
+* Login and Register Screen
+* Home, Add, Detail, Maps, And Language Activity
 
 <p align="center">
   <img src = "http://drive.google.com/uc?export=view&id=1euatYJmblQcOnv31ZJT71_zVGdfIABWb"
