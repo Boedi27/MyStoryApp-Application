@@ -57,12 +57,5 @@ MyStoryApp-Application is an application that I created to complete my submissio
    <img src="https://i9.ytimg.com/vi/3gMQUCgYD7I/mqdefault.jpg?sqp=CJi6h6cG-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIACgAqKAgwIABABGF4gXiheMA8=&rs=AOn4CLCMcGZ138yEtqVGt5KEjE6-syFN5A" alt="Demo Video" width="300" height="200">
 </a>
 
-## Getting Started
-### Prerequisite
-In order to use the features of the app you need to change the code on the ***ApiConfig Class*** with your own Github Personal Acces Token
-```sh
-.addHeader("Authorization", "token YOUR_PERSONAL_GITHUB_TOKEN")
-```
-For more information about how to get the token please read this documentation: [How To Get Your Personal Acces Token](https://docs.github.com/en/enterprise-server@3.6/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
 ## Contact
 [Muhamad Arif Boediman](https://www.linkedin.com/in/muhamad-arif-boediman-885672242/) - marifboediman772@gmail.com
