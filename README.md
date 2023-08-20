@@ -10,11 +10,10 @@ MyStoryApp-Application is an application that I created to complete my submissio
 ### Library
 * [Glide](https://github.com/bumptech/glide)
 * [Retrofit2](https://github.com/square/retrofit)
-* [Circleimageview](https://github.com/hdodenhof/CircleImageView)
-* [Viewpager2](https://developer.android.com/jetpack/androidx/releases/viewpager2)
-* [Livedata](https://developer.android.com/topic/libraries/architecture/livedata)
+* [Pagging 3](https://developer.android.com/topic/libraries/architecture/paging/v3-migration)
 * [Room](https://developer.android.com/training/data-storage/room)
-* [Data Store Preferences](https://developer.android.com/codelabs/android-preferences-datastore#0)
+* [Testing Mockito](https://developer.android.com/training/testing/local-tests)
+* [Data Store](https://developer.android.com/topic/libraries/architecture/datastore)
 
 ### Architecture
 * [View Model](https://developer.android.com/topic/libraries/architecture/viewmodel)
